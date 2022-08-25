@@ -1,5 +1,7 @@
 # placeholderAnimation
 
+A little animation to show some placeholder Background while your content load entirely. 
+
 https://placeholder-animation-lg.netlify.app/
 
 
